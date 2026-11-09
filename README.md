@@ -1,0 +1,71 @@
+# 🎓 Campus Notice Board
+
+## 📌 About the Project
+
+Campus Notice Board is a web-based application designed to
+help students access important college announcements,
+academic updates, events and departmental notifications
+in one place.
+
+Students can view notices, filter them by department and
+access complete notice details. Users can also publish
+new notices through a validated form.
+
+## 🎯 Objectives
+
+- Provide a centralized platform for college announcements.
+- Make notices easily accessible to students.
+- Organize notices department-wise.
+- Allow users to publish new notices.
+- Store notice information using LocalStorage.
+
+## ✨ Features
+
+1. Display a list of college notices.
+2. View complete notice details.
+3. Filter notices by department.
+4. Add new notices using a form.
+5. Form validation.
+6. Store notices using browser LocalStorage.
+7. Responsive user interface.
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Browser LocalStorage
+- Git
+- GitHub
+
+## 📂 Project Structure
+
+Campus-Notice-Board/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+## 🚀 How to Run
+
+1. Download or clone this repository.
+2. Open the project folder in VS Code.
+3. Open index.html using Live Server.
+4. The application will open in your browser.
+
+## 💾 Data Storage
+
+The application uses browser LocalStorage to save
+notice information.
+
+New notices remain available after refreshing
+the browser on the same device and browser.
+
+## 👨‍💻 Developer
+
+Developed as an academic web development project.
+
+## 📜 License
+
+This project is created for educational purposes.
