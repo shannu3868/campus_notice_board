@@ -66,11 +66,13 @@ the browser on the same device and browser.
 
 | S.No | Team Member | Responsibilities |
 | 1 | P. Shanmukharao | Project development, HTML structure, and frontend design. |
-| 2 | P. Mohan Prasad | JavaScript functionality, testing, debugging, and documentation. |
+| 2 | P. Mohan Prasad | JavaScript functionality, testing. |
+| 3 | SK.Arif |  debugging, and documentation. |
 
 ### Team Contributions
 - **P. Shanmukharao:** Responsible for designing the user interface and developing the website structure.
-- **P. Mohan Prasad:** Responsible for implementing website functionality, testing features, fixing bugs, and maintaining project documentation.
+- **P. Mohan Prasad:** Responsible for implementing website functionality, testing features.
+- **SK.Arif:** fixing bugs, and maintaining project documentation.
 
 
 ## 📜 License
